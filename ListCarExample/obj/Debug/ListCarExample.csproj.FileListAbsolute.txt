@@ -1,0 +1,11 @@
+c:\users\bryceh\source\repos\ListCarExample\ListCarExample\bin\Debug\ListCarExample.exe.config
+c:\users\bryceh\source\repos\ListCarExample\ListCarExample\bin\Debug\ListCarExample.exe
+c:\users\bryceh\source\repos\ListCarExample\ListCarExample\bin\Debug\ListCarExample.pdb
+c:\users\bryceh\source\repos\ListCarExample\ListCarExample\obj\Debug\ListCarExample.csproj.CoreCompileInputs.cache
+c:\users\bryceh\source\repos\ListCarExample\ListCarExample\obj\Debug\ListCarExample.exe
+c:\users\bryceh\source\repos\ListCarExample\ListCarExample\obj\Debug\ListCarExample.pdb
+c:\users\bryceh\source\repos\ListCarExample\ListCarExample\obj\Debug\ListCarExample.csprojAssemblyReference.cache
+C:\Users\BryceH\source\repos\ListCarExample\ListCarExample\bin\Debug\log4net.config
+C:\Users\BryceH\source\repos\ListCarExample\ListCarExample\bin\Debug\log4net.dll
+C:\Users\BryceH\source\repos\ListCarExample\ListCarExample\bin\Debug\log4net.xml
+C:\Users\BryceH\source\repos\ListCarExample\ListCarExample\obj\Debug\ListCarExample.csproj.CopyComplete
